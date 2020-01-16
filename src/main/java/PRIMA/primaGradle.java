@@ -27,7 +27,7 @@ public class primaGradle {
         PtsAPerder.put(35,3);
         PtsAPerder.put(45,5);
         PtsAPerder.put(65,7);
-        PtsAPerder.put(91,5);
+        PtsAPerder.put(91,4);
         
         ReducirSeguro.put(25,50);
         ReducirSeguro.put(35,50);

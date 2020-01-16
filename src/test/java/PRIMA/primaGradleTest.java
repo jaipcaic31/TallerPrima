@@ -128,5 +128,18 @@ public class primaGradleTest {
 		prima1.prima('o', 'l');
 	}
 
+	//*****CASOS PRUEBAS *****
+	@Test
 
+	public void testPrima_Caso31() {
+		System.out.println("***Caso de PRUEBAS UNITARIAS***");
+		System.out.println("Edad:65, Puntos:27");
+		prima1.prima(65, 27);
+		System.out.println("Edad:65, Puntos:26");
+		prima1.prima(65, 26);
+		System.out.println("Edad:65, Puntos:25");
+		prima1.prima(65, 25);
+		
+	}
+	
 }
